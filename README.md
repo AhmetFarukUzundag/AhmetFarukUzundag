@@ -2,9 +2,8 @@
 
 <br>
 
-I'm a Python-focused software developer. I aim to develop effective solutions with a business-minded, result-oriented approach.
+I’m a Python-focused software developer whose goals are to build effective solutions with a business-minded, results-oriented approach.
 
-<br>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
