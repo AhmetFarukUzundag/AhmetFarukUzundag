@@ -1,40 +1,25 @@
+<div align="center">
+
 # Hi, I'm Ahmet Faruk 👋
 
-I'm a **software developer** focused on **Python**, and I'm passionate about building software solutions.
+### Python-focused software developer. I aim to develop and promote effective solutions. I think commercially and focus on results.
 
----
+<br>
 
-## 📫 Get in Touch
+## Technologies & Tools
 
-<p align="left">
-  <a href="mailto:ahmetrabet@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/AhmetFarukUzundag">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![42](https://img.shields.io/badge/42_Türkiye-000000?style=for-the-badge&logo=42&logoColor=white)
 
----
+<br>
 
-## 🛠️ Technologies & Tools
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/your-id)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
----
-
-## 💡 About Me
-
-- 🌱 Currently learning and improving my **Python** skills
-- 💞️ Looking to collaborate with **software companies**
-- 🎯 Interested in **software development** and innovative solutions
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmetFarukUzundag&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
+</div>
