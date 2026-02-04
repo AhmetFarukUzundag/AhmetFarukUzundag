@@ -23,6 +23,4 @@ I'm a Python-focused software developer. I aim to develop effective solutions wi
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhmetFarukUzundag&color=blueviolet&style=flat-square)
-
 </div>
