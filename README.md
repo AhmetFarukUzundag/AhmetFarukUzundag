@@ -1,11 +1,5 @@
 <div align="center">
 
-<br>
-
-I’m a Python-focused software developer whose goals are to build effective solutions with a business-minded, results-oriented approach.
-
-<br>
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![42 Türkiye](https://img.shields.io/badge/%20Türkiye-000000?style=for-the-badge&logo=42&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
